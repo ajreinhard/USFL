@@ -1,0 +1,44 @@
+game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home_team,home_score,location,result,total,overtime,away_rest,home_rest,away_moneyline,home_moneyline,spread_line,away_spread_odds,home_spread_odds,total_line,under_odds,over_odds,div_game,roof,surface,temp,wind,away_qb_name,home_qb_name,away_coach,home_coach,referee,stadium,TV
+2022_01_NJ_BIR,2022,REG,1,4/16/2022,Saturday,7:30,NJ,NA,BIR,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,outdoors,fieldturf,NA,NA,NA,NA,Mike Riley,Skip Holtz,NA,Legion Field,FOX/NBC
+2022_01_NA_NA,2022,REG,1,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_01_NA_NA,2022,REG,1,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_01_NA_NA,2022,REG,1,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_02_NA_NA,2022,REG,2,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_02_NA_NA,2022,REG,2,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_02_NA_NA,2022,REG,2,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_02_NA_NA,2022,REG,2,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_03_NA_NA,2022,REG,3,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_03_NA_NA,2022,REG,3,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_03_NA_NA,2022,REG,3,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_03_NA_NA,2022,REG,3,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_04_NA_NA,2022,REG,4,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_04_NA_NA,2022,REG,4,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_04_NA_NA,2022,REG,4,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_04_NA_NA,2022,REG,4,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_05_NA_NA,2022,REG,5,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_05_NA_NA,2022,REG,5,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_05_NA_NA,2022,REG,5,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_05_NA_NA,2022,REG,5,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_06_NA_NA,2022,REG,6,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_06_NA_NA,2022,REG,6,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_06_NA_NA,2022,REG,6,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_06_NA_NA,2022,REG,6,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_07_NA_NA,2022,REG,7,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_07_NA_NA,2022,REG,7,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_07_NA_NA,2022,REG,7,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_07_NA_NA,2022,REG,7,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_08_NA_NA,2022,REG,8,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_08_NA_NA,2022,REG,8,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_08_NA_NA,2022,REG,8,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_08_NA_NA,2022,REG,8,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_09_NA_NA,2022,REG,9,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_09_NA_NA,2022,REG,9,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_09_NA_NA,2022,REG,9,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_09_NA_NA,2022,REG,9,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_10_NA_NA,2022,REG,10,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_10_NA_NA,2022,REG,10,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_10_NA_NA,2022,REG,10,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_10_NA_NA,2022,REG,10,NA,NA,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Legion Field,NA
+2022_11_NA_NA,2022,POST,11,6/25/2022,Saturday,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Tom Benson Hall of Fame Stadium,NA
+2022_11_NA_NA,2022,POST,11,6/25/2022,Saturday,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Tom Benson Hall of Fame Stadium,NA
+2022_12_NA_NA,2022,POST,12,7/3/2022,Sunday,NA,NA,NA,NA,NA,Neutral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,outdoors,fieldturf,NA,NA,NA,NA,NA,NA,NA,Tom Benson Hall of Fame Stadium,NA
