@@ -13,7 +13,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2019,jordan-taamu-taamujo01,Jordan Ta'amu,TB,NFL,Houston,0
 2020,jordan-taamu-taamujo01,Jordan Ta'amu,TB,NFL,Kansas City,0
 2020,jordan-taamu-taamujo01,Jordan Ta'amu,TB,NFL,Detroit,0
-2020,jordan-taamu-taamujo01,Jordan Ta'amu,TB,XFL,LA Rams,0
+2020,jordan-taamu-taamujo01,Jordan Ta'amu,TB,XFL,St. Louis,1
 2021,jordan-taamu-taamujo01,Jordan Ta'amu,TB,NFL,Carolina,0
 2021,jordan-taamu-taamujo01,Jordan Ta'amu,TB,NFL,Washington,0
 2021,jordan-taamu-taamujo01,Jordan Ta'amu,TB,NFL,Detroit,0
@@ -431,7 +431,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2016,terry-poole-poolete01,Terry Poole,NJ,NFL,Seattle,0
 2017,terry-poole-poolete01,Terry Poole,NJ,NFL,Houston,0
 2017,terry-poole-poolete01,Terry Poole,NJ,NFL,Miami,0
-2019,terry-poole-poolete01,Terry Poole,NJ,AAF,LA Chargers,0
+2019,terry-poole-poolete01,Terry Poole,NJ,AAF,San Diego,1
 2020,terry-poole-poolete01,Terry Poole,NJ,XFL,Houston,1
 2021,terry-poole-poolete01,Terry Poole,NJ,CFL,Toronto,0
 2021,terry-poole-poolete01,Terry Poole,NJ,CFL,Winnipeg,0
@@ -449,7 +449,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2019,juwann-bushellbeatty-busheju01,Juwann Bushell-Beatty,TB,NFL,Dallas,0
 2019,juwann-bushellbeatty-busheju01,Juwann Bushell-Beatty,TB,NFL,Washington,0
 2020,juwann-bushellbeatty-busheju01,Juwann Bushell-Beatty,TB,NFL,Carolina,0
-2020,juwann-bushellbeatty-busheju01,Juwann Bushell-Beatty,TB,XFL,LA Rams,0
+2020,juwann-bushellbeatty-busheju01,Juwann Bushell-Beatty,TB,XFL,St. Louis,0
 2020,juwann-bushellbeatty-busheju01,Juwann Bushell-Beatty,TB,XFL,Houston,1
 2021,juwann-bushellbeatty-busheju01,Juwann Bushell-Beatty,TB,CFL,Ottawa,1
 2016,delrick-abrams-abramde01,Delrick Abrams,TB,NJCAA,Independence CC (KS),1
@@ -646,7 +646,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2019,david-rivers-riverda02,David Rivers,NJ,NFL,Miami,0
 2019,david-rivers-riverda02,David Rivers,NJ,NFL,Tampa Bay,0
 2020,david-rivers-riverda02,David Rivers,NJ,XFL,New York,0
-2020,david-rivers-riverda02,David Rivers,NJ,XFL,LA Rams,0
+2020,david-rivers-riverda02,David Rivers,NJ,XFL,St. Louis,1
 2021,david-rivers-riverda02,David Rivers,NJ,CFL,Winnipeg,1
 2021,dominique-martin-martido06,Dominique Martin,MI,NFL,Green Bay,0
 2016,manny-patterson-pattema03,Manny Patterson,NO,FCS,Maine,1
@@ -710,7 +710,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2018,bradley-sylve-sylvebr01,Bradley Sylve,PHI,NFL,New Orleans,0
 2019,bradley-sylve-sylvebr01,Bradley Sylve,PHI,AAF,Birmingham,1
 2020,bradley-sylve-sylvebr01,Bradley Sylve,PHI,XFL,DC Defenders,1
-2020,bradley-sylve-sylvebr01,Bradley Sylve,PHI,XFL,LA Rams,0
+2020,bradley-sylve-sylvebr01,Bradley Sylve,PHI,XFL,Los Angeles,1
 2015,rashard-causey-causera01,Rashard Causey,TB,FBS,UCF,1
 2016,rashard-causey-causera01,Rashard Causey,TB,FBS,UCF,1
 2017,rashard-causey-causera01,Rashard Causey,TB,FBS,UCF,1
@@ -995,7 +995,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2019,jordan-lasley-laslejo01,Jordan Lasley,TB,NFL,Detroit,0
 2019,jordan-lasley-laslejo01,Jordan Lasley,TB,NFL,Las Vegas,0
 2019,jordan-lasley-laslejo01,Jordan Lasley,TB,NFL,Baltimore,0
-2020,jordan-lasley-laslejo01,Jordan Lasley,TB,XFL,LA Rams,0
+2020,jordan-lasley-laslejo01,Jordan Lasley,TB,XFL,St. Louis,0
 2021,jordan-lasley-laslejo01,Jordan Lasley,TB,CFL,Montreal,0
 2013,delvon-hardaway-hardade01,Delvon Hardaway,PIT,FBS,Fresno State,0
 2014,delvon-hardaway-hardade01,Delvon Hardaway,PIT,FBS,Fresno State,1
@@ -1077,7 +1077,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2018,jack-tocho-tochoja01,Jack Tocho,PHI,NFL,Minnesota,0
 2019,jack-tocho-tochoja01,Jack Tocho,PHI,NFL,Pittsburgh,0
 2019,jack-tocho-tochoja01,Jack Tocho,PHI,AAF,Birmingham,1
-2020,jack-tocho-tochoja01,Jack Tocho,PHI,XFL,LA Rams,0
+2020,jack-tocho-tochoja01,Jack Tocho,PHI,XFL,Los Angeles,1
 2013,shalom-luani-luanish01,Shalom Luani,NJ,CCCAA,City College of San Francisco (CA),1
 2014,shalom-luani-luanish01,Shalom Luani,NJ,CCCAA,City College of San Francisco (CA),1
 2015,shalom-luani-luanish01,Shalom Luani,NJ,FBS,Washington State,1
@@ -1193,7 +1193,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2017,ladarius-wiley-wileyla01,Ladarius Wiley,PHI,FBS,Vanderbilt,1
 2018,ladarius-wiley-wileyla01,Ladarius Wiley,PHI,FBS,Vanderbilt,1
 2019,ladarius-wiley-wileyla01,Ladarius Wiley,PHI,NFL,Tennessee,0
-2020,ladarius-wiley-wileyla01,Ladarius Wiley,PHI,XFL,LA Rams,0
+2020,ladarius-wiley-wileyla01,Ladarius Wiley,PHI,XFL,Los Angeles,1
 2021,ladarius-wiley-wileyla01,Ladarius Wiley,PHI,NFL,Carolina,0
 2021,ladarius-wiley-wileyla01,Ladarius Wiley,PHI,NFL,Seattle,0
 2020,jake-lacina-lacinja01,Jake Lacina,NJ,NFL,Minnesota,0
@@ -1207,11 +1207,11 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2016,bruno-reagan-reagabr01,Bruno Reagan,TB,FBS,Vanderbilt,1
 2017,bruno-reagan-reagabr01,Bruno Reagan,TB,FBS,Vanderbilt,1
 2018,bruno-reagan-reagabr01,Bruno Reagan,TB,FBS,Vanderbilt,1
-2020,bruno-reagan-reagabr01,Bruno Reagan,TB,XFL,LA Rams,0
+2020,bruno-reagan-reagabr01,Bruno Reagan,TB,XFL,St. Louis,1
 2013,sean-brown-brownse04,Sean Brown,PHI,NJCAA,Nassau CC (NY),0
 2014,sean-brown-brownse04,Sean Brown,PHI,FCS,Mississippi Valley State,1
 2015,sean-brown-brownse04,Sean Brown,PHI,FCS,Mississippi Valley State,1
-2020,sean-brown-brownse04,Sean Brown,PHI,XFL,LA Rams,0
+2020,sean-brown-brownse04,Sean Brown,PHI,XFL,Los Angeles,0
 2021,sean-brown-brownse04,Sean Brown,PHI,TSL,Generals,1
 2010,jordan-mccray-mccrajo01,Jordan McCray,BIR,FBS,UCF,1
 2011,jordan-mccray-mccrajo01,Jordan McCray,BIR,FBS,UCF,1
@@ -1336,7 +1336,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2014,taiwan-jones-jonesta02,Taiwan Jones,MI,FBS,Michigan State,1
 2015,taiwan-jones-jonesta02,Taiwan Jones,MI,NFL,NY Jets,0
 2016,taiwan-jones-jonesta02,Taiwan Jones,MI,NFL,NY Jets,1
-2020,taiwan-jones-jonesta02,Taiwan Jones,MI,XFL,LA Rams,0
+2020,taiwan-jones-jonesta02,Taiwan Jones,MI,XFL,Los Angeles,1
 2013,steven-rowzee-rowzest01,Steven Rowzee,NO,NJCAA,College of DuPage (IL),0
 2015,steven-rowzee-rowzest01,Steven Rowzee,NO,NJCAA,Eastern Arizona JC (AZ),0
 2016,steven-rowzee-rowzest01,Steven Rowzee,NO,FBS,Troy,1
@@ -1381,7 +1381,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2017,fred-lauina-lauinfr01,Fred Lauina,TB,FBS,Oregon State,1
 2018,fred-lauina-lauinfr01,Fred Lauina,TB,NFL,Cleveland,0
 2019,fred-lauina-lauinfr01,Fred Lauina,TB,AAF,San Antonio,1
-2020,fred-lauina-lauinfr01,Fred Lauina,TB,XFL,LA Rams,0
+2020,fred-lauina-lauinfr01,Fred Lauina,TB,XFL,Los Angeles,1
 2015,marquel-harrell-harrema01,Marquel Harrell,MI,FBS,Auburn,0
 2016,marquel-harrell-harrema01,Marquel Harrell,MI,FBS,Auburn,1
 2017,marquel-harrell-harrema01,Marquel Harrell,MI,FBS,Auburn,1
@@ -1404,8 +1404,8 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2017,damien-mama-mamada01,Damien Mama,TB,NFL,Kansas City,0
 2018,damien-mama-mamada01,Damien Mama,TB,NFL,Dallas,0
 2018,damien-mama-mamada01,Damien Mama,TB,NFL,NY Giants,0
-2019,damien-mama-mamada01,Damien Mama,TB,AAF,LA Chargers,0
-2020,damien-mama-mamada01,Damien Mama,TB,XFL,LA Rams,0
+2019,damien-mama-mamada01,Damien Mama,TB,AAF,San Diego,1
+2020,damien-mama-mamada01,Damien Mama,TB,XFL,Los Angeles,0
 2020,damien-mama-mamada01,Damien Mama,TB,XFL,New York,1
 2021,damien-mama-mamada01,Damien Mama,TB,TSL,Jousters,1
 2015,paul-nosworthy-noswopa01,Paul Nosworthy,PHI,FCS,Grambling,1
@@ -1503,7 +1503,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2018,shakir-soto-sotosh01,Shakir Soto,NO,NFL,Las Vegas,0
 2019,shakir-soto-sotosh01,Shakir Soto,NO,NFL,Seattle,0
 2019,shakir-soto-sotosh01,Shakir Soto,NO,NFL,Dallas,0
-2019,shakir-soto-sotosh01,Shakir Soto,NO,AAF,LA Chargers,0
+2019,shakir-soto-sotosh01,Shakir Soto,NO,AAF,San Diego,1
 2020,shakir-soto-sotosh01,Shakir Soto,NO,NFL,Seattle,0
 2021,shakir-soto-sotosh01,Shakir Soto,NO,CFL,British Columbia,0
 2014,kamilo-tongamoa-tongaka01,Kamilo Tongamoa,NO,CCCAA,Merced JC (CA),1
@@ -1517,7 +1517,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2017,owen-roberts-roberow01,Owen Roberts,PIT,FBS,San Jose State,1
 2018,owen-roberts-roberow01,Owen Roberts,PIT,FBS,San Jose State,1
 2019,owen-roberts-roberow01,Owen Roberts,PIT,NFL,LA Rams,0
-2020,owen-roberts-roberow01,Owen Roberts,PIT,XFL,LA Rams,0
+2020,owen-roberts-roberow01,Owen Roberts,PIT,XFL,Los Angeles,1
 2013,tomasi-laulile-laulito01,Tomasi Laulile,HOU,FBS,BYU,0
 2014,tomasi-laulile-laulito01,Tomasi Laulile,HOU,FBS,BYU,1
 2015,tomasi-laulile-laulito01,Tomasi Laulile,HOU,FBS,BYU,1
@@ -1552,7 +1552,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2017,reggie-howard-howarre03,Reggie Howard,TB,FBS,Toledo,1
 2018,reggie-howard-howarre03,Reggie Howard,TB,FBS,Toledo,1
 2019,reggie-howard-howarre03,Reggie Howard,TB,NFL,LA Chargers,0
-2020,reggie-howard-howarre03,Reggie Howard,TB,XFL,LA Rams,0
+2020,reggie-howard-howarre03,Reggie Howard,TB,XFL,Los Angeles,1
 2021,reggie-howard-howarre03,Reggie Howard,TB,CFL,Edmonton,0
 2016,jaquan-bailey-baileja02,JaQuan Bailey,MI,FBS,Iowa State,1
 2017,jaquan-bailey-baileja02,JaQuan Bailey,MI,FBS,Iowa State,1
@@ -1634,7 +1634,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2018,larry-rose-rosela01,Larry Rose,NO,NFL,Tennessee,0
 2019,larry-rose-rosela01,Larry Rose,NO,CFL,Winnipeg,1
 2019,larry-rose-rosela01,Larry Rose,NO,AAF,Arizona,1
-2020,larry-rose-rosela01,Larry Rose,NO,XFL,LA Rams,0
+2020,larry-rose-rosela01,Larry Rose,NO,XFL,Los Angeles,1
 2013,dalyn-dawkins-dawkida02,Dalyn Dawkins,HOU,FBS,Purdue,1
 2015,dalyn-dawkins-dawkida02,Dalyn Dawkins,HOU,FBS,Colorado State,1
 2016,dalyn-dawkins-dawkida02,Dalyn Dawkins,HOU,FBS,Colorado State,1
@@ -1820,7 +1820,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2017,frank-ginda-gindafr01,Frank Ginda,MI,FBS,San Jose State,1
 2018,frank-ginda-gindafr01,Frank Ginda,MI,NFL,Miami,0
 2018,frank-ginda-gindafr01,Frank Ginda,MI,NFL,Arizona,0
-2019,frank-ginda-gindafr01,Frank Ginda,MI,AAF,LA Chargers,0
+2019,frank-ginda-gindafr01,Frank Ginda,MI,AAF,San Diego,1
 2020,frank-ginda-gindafr01,Frank Ginda,MI,XFL,New York,1
 2014,vontae-diggs-diggsvo01,Vontae Diggs,NO,FBS,Connecticut,1
 2015,vontae-diggs-diggsvo01,Vontae Diggs,NO,FBS,Connecticut,1
@@ -1960,7 +1960,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2018,brandon-barnes-barnebr04,Brandon Barnes,HOU,NFL,Detroit,0
 2019,brandon-barnes-barnebr04,Brandon Barnes,HOU,NFL,Las Vegas,0
 2019,brandon-barnes-barnebr04,Brandon Barnes,HOU,AAF,Memphis,1
-2020,brandon-barnes-barnebr04,Brandon Barnes,HOU,XFL,LA Rams,0
+2020,brandon-barnes-barnebr04,Brandon Barnes,HOU,XFL,Los Angeles,1
 2015,sal-cannella-cannesa01,Sal Cannella,NO,NJCAA,Scottsdale CC (AZ),0
 2016,sal-cannella-cannesa01,Sal Cannella,NO,NJCAA,Scottsdale CC (AZ),1
 2017,sal-cannella-cannesa01,Sal Cannella,NO,FBS,Auburn,1
@@ -2027,7 +2027,7 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2015,dequan-hampton-hamptde01,De'Quan Hampton,TB,FBS,USC,1
 2016,dequan-hampton-hamptde01,De'Quan Hampton,TB,FBS,USC,1
 2017,dequan-hampton-hamptde01,De'Quan Hampton,TB,NFL,New Orleans,0
-2020,dequan-hampton-hamptde01,De'Quan Hampton,TB,XFL,LA Rams,0
+2020,dequan-hampton-hamptde01,De'Quan Hampton,TB,XFL,Los Angeles,1
 2021,dequan-hampton-hamptde01,De'Quan Hampton,TB,NFL,Seattle,0
 2021,dequan-hampton-hamptde01,De'Quan Hampton,TB,NFL,Tampa Bay,0
 2015,lamichael-pettway-pettw0006,La'Michael Pettway,MI,FBS,Arkansas,0
@@ -2052,14 +2052,14 @@ season,fbdb_id,player,usfl_team,league,team_name,appearance
 2015,ryan-disalvo-disalry01,Ryan DiSalvo,TB,FBS,San Jose State,1
 2016,ryan-disalvo-disalry01,Ryan DiSalvo,TB,NFL,Miami,0
 2017,ryan-disalvo-disalry01,Ryan DiSalvo,TB,NFL,Tennessee,0
-2019,ryan-disalvo-disalry01,Ryan DiSalvo,TB,AAF,LA Chargers,0
+2019,ryan-disalvo-disalry01,Ryan DiSalvo,TB,AAF,San Diego,1
 2021,ryan-disalvo-disalry01,Ryan DiSalvo,TB,TSL,Conquerors,1
 2013,ryan-navarro-navarry01,Ryan Navarro,PHI,CCCAA,Riverside CC (CA),1
 2014,ryan-navarro-navarry01,Ryan Navarro,PHI,CCCAA,Riverside CC (CA),1
 2015,ryan-navarro-navarry01,Ryan Navarro,PHI,FBS,Oregon State,1
 2016,ryan-navarro-navarry01,Ryan Navarro,PHI,FBS,Oregon State,1
 2019,ryan-navarro-navarry01,Ryan Navarro,PHI,AAF,Memphis,1
-2020,ryan-navarro-navarry01,Ryan Navarro,PHI,XFL,LA Rams,0
+2020,ryan-navarro-navarry01,Ryan Navarro,PHI,XFL,Los Angeles,1
 2014,mitchell-fraboni-frabomi01,MItchell Fraboni,PIT,FBS,Arizona State,1
 2015,mitchell-fraboni-frabomi01,MItchell Fraboni,PIT,FBS,Arizona State,1
 2016,mitchell-fraboni-frabomi01,MItchell Fraboni,PIT,FBS,Arizona State,1
